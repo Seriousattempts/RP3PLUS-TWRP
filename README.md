@@ -1,4 +1,4 @@
-# TWRP magisk boot.img made for the retroid pocket 3+
+# TWRP boot.img made for the retroid pocket 3+
 
 These files were created from hovatek's online twrp builder https://www.hovatek.com/twrpbuilder/ along with signing them with this github repository: https://github.com/skompc/retroid-pocket-3-plus-autoroot
 
